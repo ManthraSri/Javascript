@@ -1,4 +1,4 @@
-# 🚀 My JavaScript Learning Journey! 🌟
+#  My JavaScript Learning Journey! 
 
 Welcome to my repository documenting my adventure into JavaScript! This README will guide you through my progress, simple examples, and learning resources.
 
